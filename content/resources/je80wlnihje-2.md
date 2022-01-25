@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-401-finance-theory-i-fall-2008/8da3b06381b55598e0a203b5ea479dfa_JE80wLNIhjE.srt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: 8da3b063-81b5-5598-e0a2-03b5ea479dfa
+---
